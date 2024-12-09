@@ -6,7 +6,7 @@
 ## **Instructiuni de instalare si pornire**
 
 Navigati in directorul proiectului si rulati urmatoarea comanda pentru a instala dependentele: <br>
-```cd nume\_proiect```<br>
+```cd nume_proiect```<br>
 ```npm install```
 
 Porneste serverul de dezvoltare pentru a putea vizualiza aplicatia in browser:<br>
